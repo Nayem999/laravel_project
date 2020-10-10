@@ -1,0 +1,1 @@
+[14-Mar-2020 03:18:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/nayempro/public_html/Laravel_Project/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
